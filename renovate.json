@@ -1,6 +1,7 @@
 {
   "extends": [
     "config:base",
+    ":gitSignOff",
     ":dependencyDashboard",
     ":prHourlyLimitNone",
     ":rebaseStalePrs",
