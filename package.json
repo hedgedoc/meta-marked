@@ -1,5 +1,5 @@
 {
-  "name": "meta-marked",
+  "name": "@hedgedoc/meta-marked",
   "version": "14.1.0",
   "description": "The 'marked' markdown processor with a simple metadata system.",
   "main": "./lib/meta-marked.js",
