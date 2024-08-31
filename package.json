@@ -1,6 +1,6 @@
 {
   "name": "meta-marked",
-  "version": "0.4.5",
+  "version": "14.1.0",
   "description": "The 'marked' markdown processor with a simple metadata system.",
   "main": "./lib/meta-marked.js",
   "keywords": [
@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hackmdio/meta-marked"
+    "url": "https://github.com/hedgedoc/meta-marked.git"
   },
   "dependencies": {
     "js-yaml": "~4.1.0",
