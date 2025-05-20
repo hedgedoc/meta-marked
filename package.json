@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "js-yaml": "~4.1.0",
-    "marked": "14.1.0"
+    "marked": "15.0.12"
   },
   "devDependencies": {
     "tape": "5.8.1"
