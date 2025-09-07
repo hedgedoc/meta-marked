@@ -29,7 +29,7 @@ runs:
         key: ${{ runner.os }}-yarn-master
 
     - name: Set up NodeJS
-      uses: actions/setup-node@1e60f620b9541d16bece96c5465dc8ee9832be0b # v4.0.3
+      uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5.0.0
       with:
         node-version: ${{ inputs.NODEJS_VERSION }}
 
