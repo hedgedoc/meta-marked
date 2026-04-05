@@ -10,7 +10,7 @@ __metadata:
   resolution: "@hedgedoc/meta-marked@workspace:."
   dependencies:
     js-yaml: "npm:~4.1.0"
-    marked: "npm:14.1.0"
+    marked: "npm:17.0.6"
     tape: "npm:5.8.1"
   languageName: unknown
   linkType: soft
@@ -728,12 +728,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"marked@npm:14.1.0":
-  version: 14.1.0
-  resolution: "marked@npm:14.1.0"
+"marked@npm:17.0.6":
+  version: 17.0.6
+  resolution: "marked@npm:17.0.6"
   bin:
     marked: bin/marked.js
-  checksum: 10c0/85bb74e5514975093b2772e6844503b373f422edd4e8a5382549b7c06808c5fb7422d3314846f48d30acffdc2f935196ab8f44b47c24ce0d18a62b0376e6e3f0
+  checksum: 10c0/77961fbb360511d6638491e097cb15b1ef5e643f27c25b9cd52aa3cd92e216fc3cda7dbfc6a10adb7922d1b38df132510df65de4afe6c53c7280772c9d4221bd
   languageName: node
   linkType: hard
 
