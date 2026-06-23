@@ -1,3 +1,7 @@
+> [!CAUTION]
+> This project is deprecated and archived. It was used as a dependency of HedgeDoc but this is no longer the case.
+
+
 ## meta-marked
 #### The [marked](http://github.com/chjj/marked) markdown processor for Node.js with support for [YAML](http://yaml.org/) metadata
 
